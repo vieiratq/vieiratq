@@ -48,7 +48,7 @@ No trabalho e em projetos pessoais, utilizo principalmente **Node.js, TypeScript
 
 ---
 
-### 📈 Meus commits recentes
+### 📈 Atividade no GitHub
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vieiratq&theme=dracula" alt="GitHub Streak" />
