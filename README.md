@@ -6,7 +6,7 @@
 
 Tenho experiência prática no desenvolvimento de sistemas internos, automações de processos e integrações com APIs REST.
 
-Atualmente trabalho principalmente com **Node.js, TypeScript, JavaScript, Python e PostgreSQL**, desenvolvendo soluções voltadas para processos administrativos e contábeis.
+No trabalho e em projetos pessoais, utilizo principalmente **Node.js, TypeScript, JavaScript, Python e PostgreSQL**, desenvolvendo soluções voltadas para processos administrativos e contábeis.
 
 ### 🚀 Projetos em destaque
 
